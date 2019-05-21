@@ -1,0 +1,16 @@
+480 (SuperBank) 2018-05-12 16:45:12 Withdrawal: card *6678: 10 EUR, balance: 578 EUR
+480 (SuperBank) 2017-03-07 03:12:49 Transfer: card *6678: 100 EUR, balance: 870 EUR
+720 (GorgeousBank) 2018-08-24 23:02:00 *1238: -10 EUR, left: 450 EUR
+720 (GorgeousBank) 2017-12-05 00:05:23 *1238: +500 EUR, left: 700 EUR
+480 (SuperBank) 2017-03-02 03:12:49 Transfer: card *6678: 100 EUR, balance: 1000 EUR
+480 (SuperBank) 2019-01-21 06:14:59 Withdrawal: card *6678: 69 EUR, balance: 1993 EUR
+720 (GorgeousBank) 2019-12-11 15:43:03 *1238: 130 EUR, left: 650 EUR
+504 2015-03-23 17:30:18 Hello
+480 (SuperBank) 2019-02-19 11:27:21 Withdrawal: card *6878: 27 EUR, balance: 958 EUR
+480 (SuperBank) 2011-09-10 06:21:29 Transfer: card *6671: 130 EUR, balance: 810 EUR
+720 (GorgeousBank) 2018-08-14 13:05:20 *1238: -120 EUR, left: 850 EUR
+720 (GorgeousBank) 2017-12-25 02:05:23 *1228: +50 EUR, left: 780 EUR
+480 (SuperBank) 2019-11-16 06:17:19 Withdrawal: card *6678: 72 EUR, balance: 193 EUR
+480 (SuperBank) 2019-11-18 08:12:19 Withdrawal: card *6778: 52 EUR, balance: 293 EUR
+720 (GorgeousBank) 2019-11-21 13:43:03 *1218: 133 EUR, left: 50 EUR
+504 2015-06-23 15:30:18 Hello
